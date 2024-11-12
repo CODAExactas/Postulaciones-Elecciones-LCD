@@ -1,6 +1,6 @@
 ¡Hola, estudiantes de nuestra querida LCD!
 
-Soy Nicolás Rozenberg, estudiante avanzado y, sobre todo, un verdadero fanático de nuestra carrera. Me estoy postulando para representarte en el claustro de estudiantes de la comisión de LCD, y quiero compartirte por qué creo que este rol puede ser una oportunidad de crecimiento para todos.
+Soy Nicolás Rozenberg, estudiante avanzado, ayudante de segunda en el DM y, sobre todo, un verdadero fanático de nuestra carrera. Me estoy postulando para representarte en el claustro de estudiantes de la comisión de LCD, y quiero compartirte por qué creo que este rol puede ser una oportunidad de crecimiento para todos.
 
 A lo largo de la carrera, he tenido que compatibilizar el estudio con el trabajo, y sé bien lo frustrante que es no poder planificar los cuatrimestres en esta carrera. En estos tiempos difíciles, mi compromiso es trabajar para conseguir más materias en **turno noche** y, por sobre todo, **mayor previsibilidad** en cada departamento. Mi objetivo es que aquellos que trabajan y sean verdaderos estudiantes de la carrera, puedan seguir adelante sin cargar con la incertidumbre de horarios.
 
