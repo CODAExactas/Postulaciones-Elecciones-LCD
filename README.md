@@ -27,7 +27,7 @@ Repositorio con la propuestas y postulaciones de les postulantes a las proximas 
      4. Ezequiel Ponce
      5. Nahuel Arturo Rabey
      6. Nicolás Ian Rozenberg
-     7. Luciano Enrique Ruz Veloso
+     7. [Luciano Enrique Ruz Veloso][(https://github.com/CODAExactas/Postulaciones-Elecciones-LCD/blob/main/Postulaciones-Estudiantes/luci.md "Luciano Enrique Ruz Veloso")
      8. Victoria Steg
      9. Mariano Fernández Zaragoza
          
