@@ -23,10 +23,10 @@ Repositorio con la propuestas y postulaciones de les postulantes a las proximas 
   + ### Estudiantes:
      1. Sabrina Algamis
      2. Ivan Agustín Bravo
-     3. Fausto Nicolás Martínez
+     3. [Fausto Nicolás Martínez](https://github.com/CODAExactas/Postulaciones-Elecciones-LCD/blob/main/Postulaciones-Estudiantes/fausto_martinez.md)
      4. Ezequiel Ponce
-     5. Nahuel Arturo Rabey
-     6. Nicolás Ian Rozenberg
+     5. [Nahuel Arturo Rabey](https://github.com/CODAExactas/Postulaciones-Elecciones-LCD/blob/main/Postulaciones-Estudiantes/nahuel_rabey.md)
+     6. [Nicolás Ian Rozenberg] (https://github.com/CODAExactas/Postulaciones-Elecciones-LCD/blob/main/Postulaciones-Estudiantes/nicolas_rozenberg.md)
      7. [Luciano Enrique Ruz Veloso](https://github.com/CODAExactas/Postulaciones-Elecciones-LCD/blob/main/Postulaciones-Estudiantes/luci.md)
      8. Victoria Steg
      9. Mariano Fernández Zaragoza
